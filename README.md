@@ -1,7 +1,7 @@
 Document Templates
 ==================
 
-A list of useful documents templates.
+A list of daily used templates.
 
 ####Specs
 
