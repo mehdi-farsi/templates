@@ -1,0 +1,24 @@
+/* 
+* @Author: mehdi
+* @Date:   2014-10-07 00:18:55
+* @Last Modified by:   mehdi
+* @Last Modified time: 2014-10-07 00:18:55
+*/
+
+@import 'tools/colors';
+
+
+// For further information: http://learnlayout.com/box-sizing.html
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+body {
+  p, ol, ul, td { }
+
+  pre { }
+
+  a { &:hover { } }
+}

@@ -1,0 +1,23 @@
+/* 
+* @Author: mehdi
+* @Date:   2014-10-07 02:03:59
+* @Last Modified by:   mehdi
+* @Last Modified time: 2014-10-07 02:03:59
+*/
+
+.text {
+  font-family: 'Helvetica Neue' sans-serif;
+
+  &.text-small { font-size: 16px; }
+
+  &.text-medium { font-size: 22px; }
+
+  &.text-large { font-size: 28px; }
+}
+
+
+.title {
+  font-family: 'Helvetica Neue' sans-serif;
+  color:  #2980b9;
+  margin-bottom: 50px;
+}

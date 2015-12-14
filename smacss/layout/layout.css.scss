@@ -1,0 +1,16 @@
+@import 'tools/colors';
+
+/* Example for navbar */
+.l-navbar {
+  font-size: 1.5em;
+  color: $dark-color;
+
+  p {
+    font-size: 1.2em;
+  }
+
+  .logo {
+    font-size: 1.5em;
+  }
+
+}
