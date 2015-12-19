@@ -17,3 +17,5 @@ setup for Rails projects:
 # Copy the content of smacss directory into your_project/app/assets/stylesheets
 ?> cp -rv smacss/* PATH_TO_PROJECT/app/assets/stylesheets
 ```
+
+Feel free to star the project :)
