@@ -18,4 +18,3 @@ setup for Rails projects:
 ?> cp -rv smacss/* PATH_TO_PROJECT/app/assets/stylesheets
 ```
 
-Feel free to star the project :)
